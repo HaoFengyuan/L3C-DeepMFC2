@@ -1,8 +1,8 @@
 # L3C-DeepMFC2
-The audio example of "A Low-Latency Low-Complexity Deep Marginal Feedback Cancellation Method with Closed-Loop Fine Tuning for Hearing Aids", which is accepted by Interspeech 2025.
+The audio example of "A Low-Latency Low-Complexity Deep Marginal Feedback Cancellation Method with Closed-Loop Fine Tuning for Hearing Aids", which is submitted to TASLP.
 
 ## Citation
-If you use our code in your research or wish to refer to the baseline results, please use the following BibTeX entry.
+If you are instrested in our proposed method or wish to refer to the baseline results, please use the following BibTeX entry.
 
 ```bibtex
 @inproceedings{hao2025interspeech,
