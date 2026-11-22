@@ -1,5 +1,5 @@
 # L3C-DeepMFC2
-The audio example of "A Low-Latency Low-Complexity Deep Marginal Feedback Cancellation Method with Closed-Loop Fine Tuning for Hearing Aids", which is submitted to TASLP.
+The audio example of "Low-Latency Low-Complexity Deep Marginal Feedback Mitigation with Closed-Loop Fine Tuning for Hearing Aids", which is submitted to JASA.
 
 ## Citation
 If you are instrested in our proposed method or wish to refer to the baseline results, please use the following BibTeX entry.
